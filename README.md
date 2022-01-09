@@ -1,4 +1,4 @@
 # My first project
 
 ##Intro
-Omer's first repo
+Miriam's first repo
